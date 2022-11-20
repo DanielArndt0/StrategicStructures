@@ -19,8 +19,6 @@
             android:id="@+id/horaBox"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="15dp"
-            android:layout_marginBottom="30dp"
             android:layout_weight="1">
 
             <com.google.android.material.textfield.TextInputEditText

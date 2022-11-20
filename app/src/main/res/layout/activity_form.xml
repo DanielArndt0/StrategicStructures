@@ -105,7 +105,15 @@
 
         <include
             android:id="@+id/caminhada"
-            layout="" />
+            layout="@layout/activity_form_include" />
+
+        <include
+            android:id="@+id/corrida"
+            layout="@layout/activity_form_include" />
+
+        <include
+            android:id="@+id/corda"
+            layout="@layout/activity_form_include" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/SaveButton"
